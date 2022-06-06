@@ -8,6 +8,7 @@ O objetivo do trabalho é criar uma plataforma que facilite e otimize os process
 Neste caso temos 3 partes envolvidas que podem estar diretamente ou indiretamente atuando na plataforma. São eles o Nexus, a Corporate, geralmente uma empresa de médio/ grande porte, e a Startup que é uma empresa incubada no Nexus. Diante disso, criamos 3 personas diferentes: Julia, Ricardo e Matheus.
 
 ### 1.
+![](C:\Users\lucas\Downloads\Pessoal\IHC\src\img\julia_persona.png)
 
 ### 2.
 
