@@ -22,6 +22,7 @@ Note que temos mais informações sobre Julia, que no caso é o nosso principal 
 ## Métodos de Pesquisa utilizados
 
 No contexto do projeto, foram escolhidas duas técnicas para a etapa inicial de pesquisa e entendimento do problema. 
+
 A primeira foi a de **entrevista**. Com esse método, conseguimos ter uma conversa aprofundada com a pessoa responsável pelo sistema, que conhece o processo do início ao fim, suas dificuldades e pôde nos ajudar a entender o problema. 
 O processo se mostrou muito eficiente, pois conseguimos extrair muitas informações importantes e identificar problemas e pontos de melhorias.
 
