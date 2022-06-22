@@ -84,3 +84,9 @@ A partir desta etapa de pesquisa e entendimento do problema, conseguimos chegar 
 5. Visualização de métricas geradas pelos desafios cadastrados.
 6. Filtragem dos desafios com base em suas principais características. 
 1. Uso do algoritmo de match que recomenda uma lista de empresas que combinam com um determinado desafio.
+
+# Low Fidelity Prototype
+
+Para esta etapa utilizamos o Miro, por ser uma plataforma colaborativa, conseguimos que todos pasticipassem da construção e por ter alguns componentes prontos, também facilitou o desenvolvimento.
+
+O prototipo pode ser visto em: <https://miro.com/app/board/uXjVOr1AUL4=/?share_link_id=902873709946>
