@@ -68,6 +68,11 @@ Não foi encontrado nenhum ponto de melhoria.
 
 <img src="src\img\inspecao\05.png" >
 
+### Melhoria 9
+
+* Não campo de cadastro de telefone
+* H5
+* Adicionar ao cadastro ou excluir 
 
 
 ### Melhoria 10
@@ -169,7 +174,7 @@ Não foi encontrado nenhum ponto de melhoria.
 * Definir se é funcionário ou colaborador
 
 
-### Melhoria 13
+### Melhoria 22
 
 * Possível erro ao inserir vários responsáveis com mesmo nome mas de escritas diferentes
 * H5
