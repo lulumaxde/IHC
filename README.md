@@ -90,3 +90,8 @@ A partir desta etapa de pesquisa e entendimento do problema, conseguimos chegar 
 Para esta etapa utilizamos o Miro, por ser uma plataforma colaborativa, conseguimos que todos pasticipassem da construção e por ter alguns componentes prontos, também facilitou o desenvolvimento.
 
 O prototipo pode ser visto em: <https://miro.com/app/board/uXjVOr1AUL4=/?share_link_id=902873709946>
+
+
+# Resultados da Avaliação por Inspeção
+
+[Avaliação por Inspeção](avaliacaoInspecao.md)
