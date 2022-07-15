@@ -95,3 +95,15 @@ O prototipo pode ser visto em: <https://miro.com/app/board/uXjVOr1AUL4=/?share_l
 # Resultados da Avaliação por Inspeção
 
 [Avaliação por Inspeção](avaliacaoInspecao.md)
+
+# High Fidelity Prototype
+
+Para esta etapa utilizamos o Figma, uma ferramenta colaborativa que permite a criação de telas e interações com elementos, permitindo uma visualização de como o sistema final se comporta.
+
+O prototipo pode ser visto em: <https://www.figma.com/file/Ol2iqvNzCnNZ77hynIew3I/Alta-fidelidade?node-id=98%3A9028>
+
+# Questionário pré-teste
+
+Foi elaborado um questionário com algumas atividades a serem realizas pelo usuário, com o intuito de avaliar a usabilidade do sistema. 
+
+Ele pode ser visto em: <https://docs.google.com/document/d/157Bt08tplkKlNb-chYyXofY2D79CHkRcJUXJp2dkPN8/edit?usp=sharing>
